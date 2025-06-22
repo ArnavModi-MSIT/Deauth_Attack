@@ -35,7 +35,7 @@ This is a **menu-driven Bash tool** designed for performing Wi-Fi Deauthenticati
 2. Run the script as root:
 sudo ./deauth.sh
 
-##📋 Menu Options
+## 📋 Menu Options
 
 Option	  Description
 1	Show available Wi-Fi interfaces (iwconfig)
