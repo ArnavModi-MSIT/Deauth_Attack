@@ -36,7 +36,8 @@ This is a **menu-driven Bash tool** designed for performing Wi-Fi Deauthenticati
 sudo ./deauth.sh
 
 ##📋 Menu Options
-Option	Description
+
+Option	  Description
 1	Show available Wi-Fi interfaces (iwconfig)
 
 2	Kill services that interfere with monitor mode
